@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/tobiaseisinger/Documents/Mono Projects/TestGame/Content/barrier.png","/home/tobiaseisinger/Documents/Mono Projects/TestGame/Content/bin/DesktopGL/Content/barrier.xnb","TextureProcessor","Texture2DContent",1120,202585,0.0996416
